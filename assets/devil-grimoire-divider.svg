@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="48" viewBox="0 0 560 48" role="img" aria-labelledby="t">
+<title id="t">Black devil grimoire divider</title>
+<defs><linearGradient id="r"><stop stop-color="#e52535" stop-opacity="0"/><stop offset=".5" stop-color="#e52535"/><stop offset="1" stop-color="#e52535" stop-opacity="0"/></linearGradient></defs>
+<path d="M0 24H214l12-8 12 8h72l12-8 12 8h226" fill="none" stroke="url(#r)" stroke-width="1.5"/>
+<path d="M280 5l7 12 12 7-12 7-7 12-7-12-12-7 12-7z" fill="#080808" stroke="#e52535" stroke-width="1.5"/>
+<circle cx="280" cy="24" r="3" fill="#e52535"/>
+</svg>
